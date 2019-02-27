@@ -3,7 +3,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-    array = 
+    array = ["wow", "arrays!"]
 end
 
 def using_reverse(array)
